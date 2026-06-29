@@ -3,12 +3,10 @@
 Este repositorio contiene el notebook y los recursos utilizados para analizar el nivel de aislamiento espacial de los campamentos informales en la comuna de Viña del Mar, Región de Valparaíso. El proyecto aplica técnicas de análisis de datos espaciales y modelos de econometría espacial (Spatial Error Model - SEM) para evaluar cómo la antigüedad del asentamiento y su escala demográfica impactan su distancia a servicios urbanos esenciales.
 
 ## 👥 Autores
-
-* 
+ 
 **José Manzano** 
 
-
-* 
+ 
 **Manuel Silva** 
 
 
